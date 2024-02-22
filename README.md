@@ -15,5 +15,5 @@ Streamlit Interface:
  The user interface is built using Streamlit, offering a clean and visually appealing design for seamless interaction.
 
 Voice Input/Output: 
-The chatbot supports voice input and output, enhancing accessibility and providing a hands-free experience.
+The chatbot supports voice input and output, enhancing accessibility and providing a hands-free experience  .
 
